@@ -2,16 +2,16 @@
 These assignments will help you sharpen your web-d skills follow up of
 [webdevs-guide](https://istenith.com/webdevs-guide).
 
-If you have already read this page visit [assignments list](./assignment-0).
+If you have already read this page visit [assignments list](./assignment_list.md).
 
-The assignments are unique in a way that they present a hypothetical yet practical
-scenarios that seem intuitive.
+The assignments are unique as they present hypothetical yet practical
+scenarios, that seem intuitive.
 
-The assignments have increasing level of difficulty as you go on following one.
-Initial assignments have mentioned what you need to study in order to complete that
-challenge, but as you progress are seldom.
+The assignments have increasing level of difficulty as you go on following one assignment.
+Initially, assignments have mentioned what you need to study, in order to complete a
+challenge, but as you go on progressing, such assignments are seldom.
 
-You can follow assignments on your own or enroll for mentorship under Team ISTE.
+You can follow assignments **on your own** or **enroll for mentorship** under Team ISTE.
 
 ## Mentorship
 Under mentorship you will be guided about best practices that would make your
@@ -23,10 +23,11 @@ Only valid if you are in support period (currently only for ISTE members)
 Fork the GitHub repository
 [webdevs-assignments](https://github.com/istenith/webdevs-assignments)
 
-Raise an issue, on the main project page; that you want to enroll for mentorship.
+Raise an issue, on the main project page on GitHub*(search online)*.
+Stating that you want to enroll for mentorship.
 You will be assigned a mentor, but anyone from Team **ISTE** can help you.
 
-The purpose of your fork is to enable you to share your code for feedback.
+The *purpose of your fork* is to enable you to **share your code** for feedback.
 
 ### Following mentorship
 Ask your doubts on main assignments repository
@@ -34,9 +35,9 @@ Ask your doubts on main assignments repository
 so that others having the same problem don't have to ask same question again.
 
 Most of the time you would be pointed towards the link where that problem is
-addressed and solved. But you can always follow up, if doubt persists.
+addressed. But you can always follow up, if doubts persist.
 
-If your problem is resolved, your issue will be closed *i.e.* and will be tagged
+If your problem is resolved, your issue will be closed and will be tagged
 as **[SOLVED]**
 
 ### Before you ask
@@ -142,7 +143,7 @@ git push origin learn
 
 
 ## Submitting solutions
-An easy way to write good code is to study good code.
+An easy way to learn to *write good code* is to *study good code*.
 Hence we will also host a solutions branch where solutions to the problems will
 be hosted.
 The solutions will be selected on First Come First Serve basis when qualifying 
@@ -155,3 +156,5 @@ You can also suggest changes to pre-existing solutions.
 You can also submit and rectify problems, those are held on `master` branch.
 See `problems_guide.md` for more details.
 
+---
+As you have read this page, you should visit [assignments list](./assignment_list.md).
