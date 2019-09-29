@@ -1,5 +1,8 @@
 # Webdevs' Assignments
-These assignments will help you sharpen your web-d skills.
+These assignments will help you sharpen your web-d skills follow up of
+[webdevs-guide](https://istenith.com/webdevs-guide).
+
+If you have already read this page visit [assignments list](./assignment-0).
 
 The assignments are unique in a way that they present a hypothetical yet practical
 scenarios that seem intuitive.

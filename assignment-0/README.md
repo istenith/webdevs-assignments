@@ -159,3 +159,7 @@ Try to do this without JavaScript
 **To study**
 - Checkbox HTML
 - Sibling selectors CSS
+
+
+---
+[Go to all assignments](../assignment_list.md)
